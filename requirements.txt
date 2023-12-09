@@ -1,0 +1,9 @@
+numpy
+pandas
+datetime
+ccxt
+python-dotenv
+tensorflow
+matplotlib
+seaborn
+scikit-learn
